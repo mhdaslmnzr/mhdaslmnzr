@@ -1,4 +1,4 @@
-<p align="center"> <img src="" alt="mhdaslmnzr" /> </p>
+<p align="center"> <img src="assets/Mohammed aslam nazar.gif" alt="mhdaslmnzr" /> </p>
 <h1 align='center'> Hey there! :wave:</h1>
 <p align='center'>For enquiries, reach out to  me on <a href="https://instagram.com/mhdaslmnzr">mhdaslmnzr</a></p>
 
