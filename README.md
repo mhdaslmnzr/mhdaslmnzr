@@ -2,6 +2,10 @@
 <h1 align='center'> Hey there! :wave:</h1>
 <p align='center'>For enquiries, reach out to  me on <a href="https://instagram.com/mhdaslmnzr">mhdaslmnzr</a></p>
 
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdaslmnzr&label=Profile%20views&color=0e75b6&style=flat" alt="mhdaslmnzr" /> </p>
+<br>
+
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
@@ -25,9 +29,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Mohammed Aslam Nazar</h1>
 <h3 align="center">Computer Science UG, Tech 'n' Space enthusiast</h3>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdaslmnzr&label=Profile%20views&color=0e75b6&style=flat" alt="mhdaslmnzr" /> </p>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhdaslmnzr" alt="mhdaslmnzr" /></a> </p>
 
 - 🔭 I’m currently working on [Marks-app](https://github.com/mhdaslmnzr/marks-app)
