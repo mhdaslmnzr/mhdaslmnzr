@@ -3,7 +3,7 @@
 
 <p align='center'>📫 How to reach me **mhdaslmnzr@gmail.com**</p>
 <p align='center'>Connect with me on <a href="https://instagram.com/mhdaslmnzr">mhdaslmnzr</a></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdaslmnzr&label=Profile%20views&color=0e75b6&style=flat" alt="mhdaslmnzr" /> </p>
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
