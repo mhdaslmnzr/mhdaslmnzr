@@ -1,4 +1,4 @@
-<p align="center"> <img src="" alt="mhdaslmnzr" /> </p>
+<p align="center"> <img src="assets/Mohammed aslam nazar.gif" alt="mhdaslmnzr" /> </p>
 <h1 align='center'> Hey there! :wave:</h1>
 
 <p align='center'>📫 How to reach me **mhdaslmnzr@gmail.com**</p>
