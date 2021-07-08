@@ -22,7 +22,9 @@
 
 - 💬 Talk to me about Python, Frontend Development, ML, AI, Astrophysics, and random stuffs on tech 
  
- - 📫 How to reach me **mhdaslmnzr@gmail.com**
+- 📫 How to reach me **mhdaslmnzr@gmail.com**
+
+- 📋 MY <a href="assets/MOHAMMED_ASLAM_Resume_" target="blank">Resume</a>  
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdaslmnzr&" alt="mhdaslmnzr" /></p> <br>
