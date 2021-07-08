@@ -48,11 +48,10 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/mhdaslmnzr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &emsp;
-<a href = 'https://www.twitter.com/mhdaslmnzr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &emsp;
-<a href = 'https://www.github.com/mhdaslmnzr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &emsp;
-<a href = 'mailto:mhdaslmnzr@gmail.com'> <img width = '32px' align= 'center' src=""/><i class="svg-icon email"></i></a>  
-
+<a href="https://twitter.com/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
+<a href="https://fb.com/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
+<a href="https://instagram.com/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
 
 
 
