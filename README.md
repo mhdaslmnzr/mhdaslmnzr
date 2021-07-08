@@ -51,7 +51,7 @@
 <a href = 'https://www.linkedin.com/in/mhdaslmnzr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &emsp;
 <a href = 'https://www.twitter.com/mhdaslmnzr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &emsp;
 <a href = 'https://www.github.com/mhdaslmnzr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &emsp;
-<a href = 'mailto:mhdaslmnzr@gmail.com'> <img width = '32px' align= 'center' src="<i class="svg-icon email"></i>"/></a>  
+<a href = 'mailto:mhdaslmnzr@gmail.com'> <img width = '32px' align= 'center' src=""/><i class="svg-icon email"></i></a>  
 
 
 
