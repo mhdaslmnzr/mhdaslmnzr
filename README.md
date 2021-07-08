@@ -21,6 +21,8 @@
 - 👯 I’m looking to collaborate on Anything 
 
 - 💬 Talk to me about Python, Frontend Development, ML, AI, Astrophysics, and random stuffs on tech 
+ 
+ - 📫 How to reach me **mhdaslmnzr@gmail.com**
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -53,20 +55,11 @@
 <a href="https://fb.com/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
 <a href="https://instagram.com/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdaslmnzr&label=Profile%20views&color=0e75b6&style=flat" alt="mhdaslmnzr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhdaslmnzr" alt="mhdaslmnzr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mhdaslmnzr" target="blank"><img src="https://img.shields.io/twitter/follow/mhdaslmnzr?logo=twitter&style=for-the-badge" alt="mhdaslmnzr" /></a> </p>
-
-- 📫 How to reach me **mhdaslmnzr@gmail.com**
-
+  
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-
-<br>
 
 
 <!-- <p align="center"> <img src="assets/Mohammed aslam nazar.gif" alt="mhdaslmnzr" /> </p>
