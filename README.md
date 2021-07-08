@@ -24,7 +24,7 @@
  
 - 📫 How to reach me **mhdaslmnzr@gmail.com**
 
-- 📋 MY <a href="assets/MOHAMMED_ASLAM_Resume_" target="blank">Resume</a>  
+- 📋 MY <a href="https://drive.google.com/file/d/1EMaoNQpYHeLkWM-66MvMvb5iuD8sKujF/view?usp=sharing" target="blank">Resume</a>  
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdaslmnzr&" alt="mhdaslmnzr" /></p> <br>
