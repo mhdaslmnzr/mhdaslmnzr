@@ -25,9 +25,8 @@
  - 📫 How to reach me **mhdaslmnzr@gmail.com**
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdaslmnzr&" alt="mhdaslmnzr" /></p>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdaslmnzr&show_icons=true&locale=en" alt="mhdaslmnzr" /></p>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdaslmnzr&" alt="mhdaslmnzr" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdaslmnzr&show_icons=true&locale=en" alt="mhdaslmnzr" /></p>  
 <br>
  
 
