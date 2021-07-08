@@ -53,7 +53,13 @@
 <a href="https://fb.com/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
 <a href="https://instagram.com/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdaslmnzr&label=Profile%20views&color=0e75b6&style=flat" alt="mhdaslmnzr" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhdaslmnzr" alt="mhdaslmnzr" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mhdaslmnzr" target="blank"><img src="https://img.shields.io/twitter/follow/mhdaslmnzr?logo=twitter&style=for-the-badge" alt="mhdaslmnzr" /></a> </p>
+
+- 📫 How to reach me **mhdaslmnzr@gmail.com**
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
@@ -68,8 +74,8 @@
 
 <p align='center'>📫 How to reach me **mhdaslmnzr@gmail.com**</p>
 <!-- <p align='center'>Connect with me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mhdaslmnzr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mhdaslmnzr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mhdaslmnzr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mhdaslmnzr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](mhdaslmnzr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](mhdaslmnzr)   -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdaslmnzr&label=Profile%20views&color=0e75b6&style=flat" alt="mhdaslmnzr" /> </p>
-<h1 align='center'><i>Stay awesome!</i></h1> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdaslmnzr&label=Profile%20views&color=0e75b6&style=flat" alt="mhdaslmnzr" /> </p>
+<h1 align='center'><i>Stay awesome!</i></h1> --> -->
 
 
 
