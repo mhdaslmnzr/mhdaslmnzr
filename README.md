@@ -54,7 +54,7 @@
 <a href="https://linkedin.com/in/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
 <a href="https://fb.com/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
 <a href="https://instagram.com/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://telegram.me/mhdaslmnzr)   
+<a href="https://telegram.me/mhdaslmnzr" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'></a>   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](mhdaslmnzr#4068)
 
   
