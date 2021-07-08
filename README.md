@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 <div align="center">
   <img src="assets/Mohammed aslam nazar.gif" alt="mhdaslmnzr" />
 </div>
@@ -26,6 +24,14 @@
  
  - 📫 How to reach me **mhdaslmnzr@gmail.com**
 
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdaslmnzr&" alt="mhdaslmnzr" /></p>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdaslmnzr&show_icons=true&locale=en" alt="mhdaslmnzr" /></p>  
+<br>
+ 
+
+  
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -56,31 +62,9 @@
 <a href="https://linkedin.com/in/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
 <a href="https://fb.com/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
 <a href="https://instagram.com/mhdaslmnzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhdaslmnzr" height="30" width="40" /></a>
-<a href="https://telegram.me/mhdaslmnzr" target="blank"><i class="fab fa-telegram"></i></a>   
-
+  
 
   
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhdaslmnzr&show_icons=true&locale=en&layout=compact" alt="mhdaslmnzr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdaslmnzr&show_icons=true&locale=en" alt="mhdaslmnzr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdaslmnzr&" alt="mhdaslmnzr" /></p>
