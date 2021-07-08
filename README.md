@@ -1,10 +1,76 @@
-<p align="center"> <img src="assets/Mohammed aslam nazar.gif" alt="mhdaslmnzr" /> </p>
+<div align="center">
+  <img src="assets/Mohammed aslam nazar.gif" alt="mhdaslmnzr" />
+</div>
+
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mhdaslmnzr.mhdaslmnzr)
+
+</p>
+
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+- 🔭 I’m currently working on frontend development of few projects
+
+- 🌱 I’m currently learning Reactjs, Nodejs, mongodb & firebase and blender 
+
+- 👯 I’m looking to collaborate on Anything 
+
+- 💬 Talk to me about Python, Frontend Development, ML, AI, Astrophysics, and random stuffs on tech 
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=flask&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=heroku&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=opencv&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=selenium&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'> </a>
+<a href= https://github.com/mhdaslmnzr?tab=repositories&q=&type=&language=xd&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'> </a>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/mhdaslmnzr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &emsp;
+<a href = 'https://www.twitter.com/mhdaslmnzr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &emsp;
+<a href = 'https://www.github.com/mhdaslmnzr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &emsp;
+<a href = 'mailto:mhdaslmnzr@gmail.com'> <img width = '32px' align= 'center' src="<i class="svg-icon email"></i>"/></a>  
+
+
+
+
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+
+<br>
+
+
+<!-- <p align="center"> <img src="assets/Mohammed aslam nazar.gif" alt="mhdaslmnzr" /> </p>
 <h1 align='center'> Hey there! :wave:</h1>
 
 <p align='center'>📫 How to reach me **mhdaslmnzr@gmail.com**</p>
 <!-- <p align='center'>Connect with me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mhdaslmnzr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mhdaslmnzr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mhdaslmnzr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mhdaslmnzr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](mhdaslmnzr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](mhdaslmnzr)   -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdaslmnzr&label=Profile%20views&color=0e75b6&style=flat" alt="mhdaslmnzr" /> </p>
-<h1 align='center'><i>Stay awesome!</i></h1>
+<h1 align='center'><i>Stay awesome!</i></h1> -->
 
 
 
